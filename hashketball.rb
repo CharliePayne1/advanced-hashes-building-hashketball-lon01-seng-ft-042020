@@ -59,6 +59,7 @@ def game_hash
         :slam_dunks => 1,  
       }
     ]
+  }
     :away => {
       :tean_name => "Charlotte Hornets",
       :colors => ["Turquoise", "Purple"],
@@ -119,3 +120,4 @@ def game_hash
       }
     ]
   }
+}
