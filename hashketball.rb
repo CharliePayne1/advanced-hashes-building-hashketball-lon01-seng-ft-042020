@@ -3,7 +3,7 @@ def game_hash
     :home => {
       :tean_name => "Brooklyn Nets",
       :colors => ["Black", "White"],
-      :players => {
+      :players => [
         :player_name => "Alan Anderson",
         :number => 0,
         :shoe => 16,
@@ -58,7 +58,7 @@ def game_hash
         :blocks => 11, 
         :slam_dunks => 1,  
       }
-    }
+    ]
     :away => {
       :tean_name => "Charlotte Hornets",
       :colors => ["Turquoise", "Purple"],
